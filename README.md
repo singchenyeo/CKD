@@ -3,7 +3,8 @@ Models to predict the onset of chronic kidney disease (CKD)
 
 ## What are included
 * Raw data consist of 300 patients, with longitudinal medical record up to 1429 days from baseline
-* A PDF is available to present the methods and results
+* “Variable explanation.pdf” contains all information about the raw data
+* “Predicting chronic kidney disease.pdf” presents the methods and results
 * “CSV” folder contain all the raw data and processed data
 * “figures” folder contain all the ROC curve
 * “models” folder contain all the optimized models
